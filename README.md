@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Hakdonglee
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
 - 안녕하세요
 
 <!---
